@@ -31,7 +31,7 @@ const StyledContentWrapper = styled(ContentWrapper)`
 const NotFoundPage = () => {
   const globalState = {
     isIntroDone: true,
-    darkMode: false,
+    darkMode: true,
   }
 
   return (

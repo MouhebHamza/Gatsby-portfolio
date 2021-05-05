@@ -54,7 +54,7 @@ const StyledContentWrapper = styled(ContentWrapper)`
       margin-top: -0.75rem;
     }
     .description {
-      font-size: 1.125rem;
+      font-size: 1.25rem;
       margin-bottom: 2rem;
     }
   }

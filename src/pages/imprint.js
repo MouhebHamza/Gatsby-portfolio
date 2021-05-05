@@ -45,7 +45,7 @@ const Imprint = ({ data }) => {
 
   const globalState = {
     isIntroDone: useSplashScreen ? false : true,
-    darkMode: false,
+    darkMode: true,
   }
 
   return (

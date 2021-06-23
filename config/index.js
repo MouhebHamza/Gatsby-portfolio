@@ -98,9 +98,8 @@ module.exports = {
       },
     ],
     button: {
-      useFileName: true,
       name: "Resume",
-      url: "/",
+      url: "/resume.pdf",
     },
   },
   footerLinks: [

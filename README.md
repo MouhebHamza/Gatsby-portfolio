@@ -1,5 +1,5 @@
 <h1> My Portfolio </h1>
-* Showcasing list of projects I built
+* Showcasing list of projects I built.
 
 ### [Live demo](https://mouheb-hamza.netlify.app/)
 

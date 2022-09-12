@@ -2,7 +2,7 @@ module.exports = {
   //-- SITE SETTINGS -----
   author: "@MouhebHamza",
   siteTitle: "Mouheb Hamza Portfolio",
-  siteShortTitle: "MH", // Used as logo text in header, footer, and splash screen
+  siteShortTitle: "MH.", // Used as logo text in header, footer, and splash screen
   siteDescription:
     "A modern one-page portfolio with a clean yet expressive design.",
   siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
@@ -96,11 +96,15 @@ module.exports = {
       useFileName: true,
       name: "Resume",
       fileName:
-        "/https://drive.google.com/file/d/1GvAzshHo4E9cE-5uVpr1oHiL8eFGaTVv/view?usp=sharing", // the file has to be placed inside the static folder at the root level
+        "/drive.google.com/file/d/1GvAzshHo4E9cE-5uVpr1oHiL8eFGaTVv/view?usp=sharing", // the file has to be placed inside the static folder at the root level
       url: "", // if useFileName=false, you can set an anchor link here and use the button for navigational purposes
     },
   },
   footerLinks: [
+    {
+      name: "",
+      url: "/",
+    },
     {
       name: "",
       url: "/",
